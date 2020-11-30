@@ -1,4 +1,4 @@
-# Please find Web designig basics to cover in this workspace.
+# Please find Web designig basics guidelines in this workspace.
 
 * Learn how to make text professionally designed
 * Use the power of colors
